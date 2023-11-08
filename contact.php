@@ -6,5 +6,5 @@ require_once "assets/header.php";
 require_once 'assets/db_connect.php';
 
 ?>
-<h1>Our Services</h1>
-<p>The services rendered by our organisation is superb and based on promoting self preference</p>
+<h1>contact us</h1>
+<p>You can get to reach us at our gmail</p>
